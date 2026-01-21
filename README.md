@@ -90,7 +90,7 @@ int main()
     return 0;
 }
 ```
-# swapping two numbers in pointers
+# 9.swapping two numbers in pointers
 
 ```cpp
 #include <iostream>
@@ -175,7 +175,7 @@ int main()
 ```
 # 2.value_address_pointer
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -196,7 +196,7 @@ int main()
 ```
 # 3.dereference_copy
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 
